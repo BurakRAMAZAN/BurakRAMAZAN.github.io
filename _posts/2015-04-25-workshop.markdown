@@ -1,6 +1,6 @@
 ---
 title:  "PHP mi ASP.NET mi ?"
-subtitle: "It's always a bit messy"
+subtitle: "Just develop it"
 author: "Burak"
 avatar: "img/authors/wferr.png"
 image: "img/f.jpg"
