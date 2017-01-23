@@ -2,7 +2,7 @@
 title:  "REGULAR EXPRESSIONS (DÜZENLİ İFADELER)"
 author: "Burak"
 avatar: "img/authors/wferr.png"
-image: "img/f.jpg"
+image: "img/regex.jpg"
 date:   2016-09-04 23:00:00
 ---
 

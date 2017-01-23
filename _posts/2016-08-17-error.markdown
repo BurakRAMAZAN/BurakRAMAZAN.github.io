@@ -3,7 +3,7 @@ title:  "C# – Hata Kontrolleri"
 subtitle: "Hatasız kul olmaz!"
 author: "Burak"
 avatar: "img/authors/wferr.png"
-image: "img/f.jpg"
+image: "img/error.jpg"
 date:   2016-08-17 22:02:19
 ---
 
