@@ -14,13 +14,11 @@ Hadi başlayalım ;
 
 ### 1.Derleyici
 
-vs15
 
 Microsoft’un geliştirdiği bir IDE olan Visual Studio herhalde bu konuyu tartışanların tek ortak noktası. Asp.Net ‘i ön plana atan en önemli özelliği Visual Studio gibi mükemmel bir IDE’ ye sahip  olmasıdır. Php için de çeşitli geliştirme araçları olsa da Visual Studio alanının lideri ve tartışmaya yer bırakmayacak kadar iyi bir geliştirme aracıdır.
 
 ### 2. Performans ve Hız
 
-speed
 
 Bu konuda bu daha iyi demek taraflı bir yorum olacaktır sanıyorum. Çünkü sitenizin performansı kullandığınız dilden ziyade birçok faktöre bağlıdır. Genellikle büyük web siteleri (Google, Facebook,Yahoo vb.) bu problemi açık kaynaklı ve her biri o dilin en iyi yaptığı işi yapması için seçilen birçok programlama dili kullanarak maksimum performans elde ediyor.
 
@@ -34,7 +32,6 @@ Kullanıcı taraflı çalışma ve sayfa yükleme hızları geliştiricinin  tec
 
 ### 3. Web Site Hazırlama
 
-webs
 
 Php kullanarak sıfırdan bir web sitesi hazırlamak zahmetli bir iş olacaktır. Asp.net bu konuda mevcut kontrolleri kullanarak ortalama ihtiyaçlarınızı karşılayacaktır. Fakat projeleriniz büyüdükçe Asp.net ‘in  mevcut kontrolleri sizin için birçok sıkıntı da yaratabilir. Bu aşamada Php ‘nin çok sevilen bir yönü ortaya çıkmaktadır: Php tabanlı içerik yönetim sistemleri.
 
@@ -44,7 +41,6 @@ WordPress, Joomla, Drupal, Oscommerce ve Magento gibi neredeyse her web yazılı
 
 ### 4. Maliyetler
 
-dolar
 
 Geliştirme araçları, barındırma hizmetleri, çeşitli sertifikasyon ücretleri…
 
@@ -52,7 +48,6 @@ Maliyetler size şuan çokta önemli gözükmeyebilir fakat Firmaların ana ama�
 
 ### 5.Kullanım Oranı 
 
-kullanım
 
 Elbette dünyada birçok Asp.net ya da Php kullanan web sitesi mevcut. Genel kullanıma bakıldığında Php, Asp.net ‘e göre daha fazla kullanılıyor. Bunda da maliyetlerin ve wordpress, joomla gibi içerik yönetim sistemlerinin büyük etkisi bulunuyor. Fakat işin ticari boyutuna bakıldığında firmalar genellikle Asp.net kullanmayı tercih ediyor. Özellikle ülkemizde genellikle banka ya da önde gelen e-ticaret sitelerinin Asp.net kullandığını görebiliriz.  Örneğin; Kariyer.Net ‘te şuan 325 Asp.net ilanı varken 149 Php iş ilanı bulunmaktadır.
 
