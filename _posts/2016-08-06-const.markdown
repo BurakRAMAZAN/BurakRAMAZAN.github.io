@@ -1,6 +1,6 @@
 ---
 title:  "Const ve ReadOnly"
-subtitle: "Prrogramlamaya giriş"
+subtitle: "Programlamaya giriş"
 author: "Burak"
 avatar: "img/authors/wferr.png"
 image: "img/f.jpg"
