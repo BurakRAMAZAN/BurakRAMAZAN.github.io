@@ -2,7 +2,7 @@
 title:  "Birden fazla dosyanın uzantısını değiştirmek"
 author: "Burak"
 avatar: "img/authors/wferr.png"
-image: "img/extension.png"
+image: "img/extensions.png"
 date:   2016-02-11 10:07:41
 ---
 
