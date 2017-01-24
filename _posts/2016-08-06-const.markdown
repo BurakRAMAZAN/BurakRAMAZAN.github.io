@@ -3,7 +3,7 @@ title:  "Const ve ReadOnly"
 subtitle: "Programlamaya giriş"
 author: "Burak"
 avatar: "img/authors/wferr.png"
-image: "img/hacker.jpg"
+image: "img/const.jpg"
 date:   2015-12-25 12:12:12
 ---
 
