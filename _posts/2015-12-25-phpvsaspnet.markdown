@@ -3,7 +3,7 @@ title:  "PHP mi ASP.NET mi ?"
 subtitle: "Just develop it"
 author: "Burak"
 avatar: "img/authors/wferr.png"
-image: "img/f.jpg"
+image: "img/phpvsnet.jpg"
 date:   2015-12-25 12:12:12
 ---
 Yıllardır web yazılımla uğraşan herkesin kendine sorduğu sorudur: Asp.Net mi yoksa Php mi kullanmalıyım ? Öncelikle şunu söylemeliyim ki bu yazının sonunda bir boks maçında olduğu gibi bir galip çıkmayacak. Bu yazıyı yazmamdaki neden önceden kendimin de yaşadığı bu kararsızlığı mantıksal sonuçlara dayandırarak karar vermenizi kolaylaştırmak. Ben de bilgisayar mühendisliğine ilk başladığım yıllarda bu ikileme çok düştüm. O zamanlar daha kolay öğrenebileceğimi ve de  freelance çalışmalar için daha uygun olduğunu düşündüğümden dolayı Php ile yazılım geliştirmeyi tercih etmiştim. 2 yıl sonra bir iş görüşmesine gitmiştim. Burada neden php dilini kullandığımı ve Asp.Net ‘e göre kaliteli yazılım geliştirmede ne gibi faydaları olduğunu sorduklarında verebilecek bir cevabımın olmadığını farkettim. Sadece kolay öğrenebileceğimi düşündüğüm için Php kullanıyordum ve bu güne kadar hiç böyle bir soruyu kendime sormamıştım. Eve döndüğümde araştırmaya koyuldum ve dillerin avantaj ve dezavantajlarını yazdım. Hangi avantajların benim için önemli, hangi dezavantajların daha gözardı edilebilir olduğuna karar vererek yazılım konusunda kendi adıma yeni bir sayfa açmıştım.
