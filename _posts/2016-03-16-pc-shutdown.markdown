@@ -3,7 +3,7 @@ title:  "Bilgisayarın Açılmama Sorunu"
 subtitle: "Şartel attı galiba"
 author: "Burak"
 avatar: "img/authors/wferr.png"
-image: "img/b.jpg"
+image: "img/power.png"
 date:   2016-03-16 17:12:05
 ---
 
