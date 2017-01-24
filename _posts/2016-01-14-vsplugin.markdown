@@ -3,7 +3,7 @@ title:  "En iyi Visual Studio Eklentileri"
 subtitle: "Geliştiricinin yardımcıları"
 author: "Burak"
 avatar: "img/authors/wferr.png"
-image: "img/e.jpg"
+image: "img/visual.png"
 date:   2016-01-14 12:12:12
 ---
 Kod yazarken en önemli şeylerden biriside idelerdir. Kod bilgisinin yanında kullandığınız editörün kullanışlı olması gerekir. Bu nedenle ülkemizde geliştiricilerin oldukça sık tercih ettiği Visual Studio ‘yu nasıl daha kullanışlı hale getirebileceğinizden bahsedeceğim.
