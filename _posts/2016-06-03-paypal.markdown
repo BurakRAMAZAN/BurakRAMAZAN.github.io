@@ -2,7 +2,7 @@
 title:  "PAYPAL ‘A VEDA"
 author: "Burak"
 avatar: "img/authors/wferr.png"
-image: "img/c.jpg"
+image: "img/paypal.jpg"
 date:   2016-06-03 19:37:41
 ---
 
