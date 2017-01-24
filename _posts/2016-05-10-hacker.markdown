@@ -3,7 +3,7 @@ title:  "İyi niyetli “HACKER” cihan nalbant ve yalanları !"
 subtitle: "Hacker'ın iyisi?"
 author: "Burak"
 avatar: "img/authors/wferr.png"
-image: "img/a.jpg"
+image: "img/hacker.jpg"
 date:   2016-05-10 14:10:12
 ---
 
